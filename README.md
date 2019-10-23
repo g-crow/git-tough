@@ -1,6 +1,6 @@
 ## This Project
 
-The goal of this project is to create a GitHub-style dashboard of gym-climbing climbs per user based on user input. Will build as serverless/AWS app and React.js for frontend.
+The goal of this project is to create a GitHub-style dashboard for gym-climbing climbs per user based on user input: date, number of climbs, notes. Will build as serverless/AWS app and React.js for frontend.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
