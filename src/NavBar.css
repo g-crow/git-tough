@@ -1,0 +1,15 @@
+/* TODO: Add less to project. Create color vars */
+.navigation {
+  z-index: 32;
+  padding: 14px 16px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: hsla(0,0%,100%,.7);
+  background-color: #24292e;
+  text-align: left;
+}
+
+.logo {
+  height: 36px;
+  cursor: pointer;
+}
