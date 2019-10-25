@@ -16,7 +16,7 @@ function ProfileSideBar() {
       <button className="editProfile">Edit profile</button>
       <div className="info">
         <p className="description">
-          Likes making climbing things complicated and, simply, a cute climber named Austin.
+          Likes making climbing things complicated and, simply, copying GitHub's UI.
         </p>
         {/* TODO Add icons */}
         <div className="gym">

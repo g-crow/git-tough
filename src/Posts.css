@@ -1,0 +1,55 @@
+.postsContainer {
+  text-align: left;
+  padding-left: 10px;
+}
+
+.postsTitle {
+  margin: 20px 16px 16px 16px;
+  color: #24292e;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.postPreview {
+  border: 1px solid #d1d5da;
+  border-radius: 3px;
+  background-color: white;
+  width: 50%;
+  max-width: 455px;
+  margin: 16px;
+  padding: 16px;
+}
+
+.postTitle {
+  margin-bottom: 8px;
+  color: rgb(3, 102, 214);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.postTitle:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.postDescription {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.postCategory {
+  position: relative;
+  padding: 12px 0 16px 0;
+}
+
+.postCategoryImage {
+  height: 21px;
+  position: absolute;
+}
+
+.label {
+  font-size: 14px;
+  line-height: 1.5;
+  position: absolute;
+  left: 22px;
+}

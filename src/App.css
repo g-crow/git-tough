@@ -22,8 +22,10 @@
   color: #09d3ac;
 }
 
-.main {
+.main-container {
   padding: 0 12%;
+  display: grid;
+  grid-template-columns: 265px auto;
 }
 
 /* override user agent stylesheet */
@@ -36,5 +38,9 @@ h1 {
 }
 
 h2 {
+  margin: 0;
+}
+
+h3 {
   margin: 0;
 }

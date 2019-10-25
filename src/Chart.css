@@ -1,0 +1,49 @@
+.chartContainer {
+  margin-top: 32px;
+  margin-left: 26px;
+}
+
+.chartTitle {
+  color: #24292e;
+  margin-bottom: 16px;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.chart {
+  border: 1px solid #d1d5da;
+  border-radius: 3px;
+}
+
+.yearContainer {
+  border: 1px solid #d1d5da;
+  height: 100px;
+  width: 800px;
+  margin: 16px auto 0 auto;
+  display: grid;
+  grid-template-columns: 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px 15px;
+  grid-template-rows: 15px 15px 15px 15px 15px 15px 15px;
+}
+
+.chartHelpContainer {
+  margin: 16px auto;
+  text-align: center;
+}
+
+.chartHelp {
+  color: #0366d6;
+  font-size: 11px;
+  text-align: left;
+  width: 800px;
+  margin: 8px auto 16px auto
+}
+
+.chartHelp:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.entry {
+  background-color: #90EE90;
+}

@@ -2,12 +2,10 @@
 
 .profile {
   padding-top: 25px;
-  padding-right: 16px;
   text-align: left;
 }
 
 .profileImg {
-  width: 25%;
   max-width: 265px;
   margin-bottom: 20px;
 }
@@ -32,8 +30,8 @@
   margin-bottom: 16px;
   padding: 6px 0;
   text-align: center;
-  width: 25%;
   max-width: 265px;
+  width: 100%;
   color: #24292e;
   background-color: #eff3f6;
   background-image: linear-gradient(-180deg,#fafbfc,#eff3f6 90%);
@@ -56,7 +54,6 @@
 }
 
 .info {
-  width: 25%;
   max-width: 265px;
   font-size: 14px;
   line-height: 1.5;
@@ -70,7 +67,7 @@
 
 .gym > p {
   position: absolute;
-  left: 20px;
+  left: 22px;
 }
 
 .gym > p:hover {
