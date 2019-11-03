@@ -34,21 +34,14 @@
 }
 
 input.option {
-  margin-right: 26px;
+  margin-right: 20px;
 }
 
-#routeName {
-  width: 20%;
-}
-
-#routeGrade {
-  width: 5%;
-}
 
 #routeNotes {
   width: 26%;
 }
 
-#routeGrade {
-  width: 1fr;
+#numClimbs {
+  margin-left: 20px;
 }
